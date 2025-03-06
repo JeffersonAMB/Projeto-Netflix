@@ -1,0 +1,100 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    position: relative;
+}
+
+#div-brackgroud {
+    z-index: -1;
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    opacity: 0.7;
+    margin: 0;
+    position: absolute;
+}
+
+#img-background {
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    z-index: -2;
+}
+
+#logo {
+    width: 250px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+#button-entrar {
+    position: absolute;
+    top: 25px;
+    right: 100px;
+    background-color: red;
+    border-style: solid;
+    border-width: 0.0625rem;
+    border-radius: calc(0.25rem - 0.0625rem);
+    border-color: rgba(0, 0, 0, 0);
+    width: 75px;
+    height: 35px;
+    color: white;
+    font-weight: bold;
+    font-size: 0.875rem;
+}
+
+#section {
+    margin-top: 150px;
+    color: white;
+    text-align: center;
+    width: 700px;
+    line-height: 110%;
+}
+
+h1 {
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 110%;
+    margin-bottom: 0px;
+}
+
+h2 {
+    margin-bottom: 40px;
+}
+
+#button-input {
+    background-color: red;
+    border-style: solid;
+    border-width: 0.0625rem;
+    border-radius: calc(0.1875rem);
+    border-color: rgba(0, 0, 0, 0);
+    font-size: 1.125rem;
+    color: white;
+    font-weight: bold;
+    height: 52px;
+    width: 130px;
+    letter-spacing: 1px;
+}
+
+input {
+    color: white;
+    height: 50px;
+    width: 400px;
+    font-weight: bold;
+    background: transparent;
+    border: solid 1px;
+    border-color: grey;
+    border-radius: 5px;
+    margin-right: 7px;
+}
+
+input :hover {
+    opacity: 1;
+}
