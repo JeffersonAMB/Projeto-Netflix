@@ -80,10 +80,15 @@ Manutenibilidade: Código legível e bem estruturado
 
 Desenvolvedor que:
 ✅ Replica interfaces complexas com precisão
+
 ✅ Escreve CSS profissional e escalável
+
 ✅ Entende design systems e identidade visual
+
 ✅ Trabalha com código limpo e performático
+
 ✅ Tem base sólida para frameworks modernos (React, Vue)
+
 = Contratação estratégica para projetos que exigem qualidade visual
 
 📞 Pronto para transformar seus designs em código de produção!
